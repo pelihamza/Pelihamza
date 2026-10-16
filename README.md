@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/> I'm Hemza walid zitouni, a Data Analyst from 🇩🇿 <b>Algeria</b>. <br/> I turn raw data into clear insights with SQL, Python and Power BI.Master's in Applied Mathematics (Operations Research).</p>
-
+<p>Welcome to my page! <br/> I'm Hemza walid zitouni, a Data Analyst. <br/> I turn raw data into clear insights with SQL, Python and Power BI.Master's in Applied Mathematics (Operations Research).</p>
 <h3>Things I analyze with</h3>
 <p>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -32,52 +31,36 @@
   <li>🤖 <b>AI-first workflow:</b> prompt engineering and AI-assisted analytics</li>
 </ul>
 
-<h3>Data projects</h3>
+<h3>Portfolio projects (in progress)</h3>
+<p>I'm building my portfolio in public. Here's what's coming:</p>
 <table>
   <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+    <tr>
+      <td><b>🎁 Project</b></td>
+      <td><b>🛠 Tools</b></td>
+      <td><b>📌 Status</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/YOUR-USERNAME/sales-dashboard"><b>Sales Performance Dashboard (Power BI + SQL)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR-USERNAME/sales-dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR-USERNAME/sales-dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR-USERNAME/sales-dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR-USERNAME/sales-dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><b>Retail Sales Dashboard</b></td>
+      <td>SQL, Power BI</td>
+      <td>🚧 Planned</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR-USERNAME/data-cleaning-toolkit"><b>Data Cleaning Toolkit (Python + Pandas)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR-USERNAME/data-cleaning-toolkit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR-USERNAME/data-cleaning-toolkit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR-USERNAME/data-cleaning-toolkit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR-USERNAME/data-cleaning-toolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><b>Data Cleaning & EDA Notebook</b></td>
+      <td>Python, Pandas, Plotly</td>
+      <td>🚧 Planned</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR-USERNAME/etl-postgresql"><b>ETL Pipeline in PostgreSQL</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR-USERNAME/etl-postgresql?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR-USERNAME/etl-postgresql?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR-USERNAME/etl-postgresql?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR-USERNAME/etl-postgresql?style=flat-square&labelColor=343b41"/></td>
+      <td><b>ETL Pipeline into PostgreSQL</b></td>
+      <td>Python, PostgreSQL</td>
+      <td>🚧 Planned</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR-USERNAME/eda-plotly"><b>Exploratory Data Analysis with Plotly</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR-USERNAME/eda-plotly?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR-USERNAME/eda-plotly?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR-USERNAME/eda-plotly?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR-USERNAME/eda-plotly?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/YOUR-USERNAME/predictive-analytics"><b>Predictive Analytics & Model Monitoring</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR-USERNAME/predictive-analytics?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR-USERNAME/predictive-analytics?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR-USERNAME/predictive-analytics?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR-USERNAME/predictive-analytics?style=flat-square&labelColor=343b41"/></td>
+      <td><b>Predictive Model with Drift Monitoring</b></td>
+      <td>Python, scikit-learn</td>
+      <td>🚧 Planned</td>
     </tr>
   </tbody>
 </table>
@@ -97,7 +80,6 @@
   <li>💼 <b>Merchandiser (Data & Analytics)</b>, BMI (2025 – present)</li>
   <li>💼 <b>Merchandiser (Data Analysis)</b>, PepsiCo (2023 – 2024)</li>
   <li>🎓 <b>Diploma in IT: Business & Advanced Analytics</b>, NBCC, Moncton</li>
-  <li>🎓 <b>PhD studies in Electrical & Computer Engineering</b>, Université de Sherbrooke</li>
   <li>🎓 <b>Master's in Applied Mathematics</b> (Operations Research), Valedictorian</li>
 </ul>
 
